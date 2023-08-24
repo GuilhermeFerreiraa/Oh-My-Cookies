@@ -1,7 +1,5 @@
-"use client";
-
 import { LoadingScreen } from "components/";
 
-export default function Home() {
+export default function Loading() {
   return <LoadingScreen />;
 }
